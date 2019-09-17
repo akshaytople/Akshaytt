@@ -1,0 +1,6 @@
+C:\Users\samasaho\source\myGitHub\Pecunia_codes\Pecunia_codes\Pecunia\Pecunia\Pecunia.Exceptions\bin\Debug\Pecunia.Exceptions.dll
+C:\Users\samasaho\source\myGitHub\Pecunia_codes\Pecunia_codes\Pecunia\Pecunia\Pecunia.Exceptions\bin\Debug\Pecunia.Exceptions.pdb
+C:\Users\samasaho\source\myGitHub\Pecunia_codes\Pecunia_codes\Pecunia\Pecunia\Pecunia.Exceptions\obj\Debug\Pecunia.Exceptions.csprojAssemblyReference.cache
+C:\Users\samasaho\source\myGitHub\Pecunia_codes\Pecunia_codes\Pecunia\Pecunia\Pecunia.Exceptions\obj\Debug\Pecunia.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\samasaho\source\myGitHub\Pecunia_codes\Pecunia_codes\Pecunia\Pecunia\Pecunia.Exceptions\obj\Debug\Pecunia.Exceptions.dll
+C:\Users\samasaho\source\myGitHub\Pecunia_codes\Pecunia_codes\Pecunia\Pecunia\Pecunia.Exceptions\obj\Debug\Pecunia.Exceptions.pdb

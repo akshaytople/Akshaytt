@@ -1,0 +1,2 @@
+C:\Users\samasaho\source\myGitHub\Pecunia_codes\Pecunia_codes\Pecunia\Pecunia\Pecunia.PresentationLayer\obj\Debug\Pecunia.PresentationLayer.csprojAssemblyReference.cache
+C:\Users\samasaho\source\myGitHub\Pecunia_codes\Pecunia_codes\Pecunia\Pecunia\Pecunia.PresentationLayer\obj\Debug\Pecunia.PresentationLayer.csproj.CoreCompileInputs.cache
